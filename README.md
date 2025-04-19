@@ -1,1 +1,108 @@
-# termos
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Termos e Condições</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 800px;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 28px;
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 22px;
+      color: #555;
+      margin-top: 30px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #666;
+      font-size: 16px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 24px;
+      }
+      h2 {
+        font-size: 20px;
+      }
+      p {
+        font-size: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Termos e Condições</h1>
+    <p>Bem-vindo ao nosso aplicativo! Ao usar este aplicativo, você concorda com os seguintes termos:</p>
+
+    <h2>1. Operadora Vivo e Tim</h2>
+    <p>
+      Para utilizar as Operadoras Vivo e Tim no plano pré-pago, é recomendado que faça a recarga a cada 30 dias,
+      tanto para que você não perca o seu chip, quanto para que seu chip esteja apto a utilizar a conexão de VPN.
+      Sendo assim, você terá muito mais possibilidades utilizando o chip da Operadora Vivo e Tim.
+    </p>
+
+    <h2>2. Regras de Conexão</h2>
+    <p>
+      A VPN nunca deve ser utilizada como Wi-Fi, pois ela não vai melhorar seu sinal, ela não vai melhorar a estabilidade,
+      na verdade ela não vai mudar nada do que já era. E qual vai ser a atuação da internet VPN no seu chip da sua operadora?
+      Simplesmente desbloquear a conexão que a operadora bloqueou. É nisso que consiste a internet VPN.
+    </p>
+
+    <h2>3. Reembolso</h2>
+    <p>
+      Antes de contratar, você pode realizar um teste de até 3 horas, justamente para você se certificar do funcionamento
+      do serviço na sua região. E é importante relembrar que nenhum de nossos vendedores vai oferecer garantia referente ao
+      serviço de conexão VPN. Portanto, não fazemos devolução de qualquer quantia após a adesão.
+    </p>
+
+    <h2>4. Internet VPN é segura?</h2>
+    <p>
+      Sim, a Internet VPN é segura. Por quais motivos? O aplicativo de conexão VPN faz apenas o desbloqueio que a operadora
+      tinha bloqueado. Ele não tem acesso a nenhum dado do seu celular, pois a única coisa que ele vai fazer é desbloquear
+      a conexão de dados que a sua operadora havia bloqueado.
+    </p>
+
+    <h2>5. Posso Ficar sem Conexão?</h2>
+    <p>
+      Sim, você pode ficar sem conexão. E por esse motivo, nós recomendamos a todos nossos fornecedores a repassar a seguinte
+      informação para você. É obrigatório você ter sempre no seu celular dois chips de operadoras diferentes. Porque, neste
+      caso, se uma das operadoras chegar a parar, você terá a segunda operadora para que você possa se manter conectado.
+    </p>
+
+    <p><strong>Agradecemos por utilizar nossos serviços. Em nome do grupo Conecta SSH.</strong></p>
+  </div>
+
+</body>
+
+</html>
